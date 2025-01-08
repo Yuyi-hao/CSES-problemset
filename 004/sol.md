@@ -7,8 +7,8 @@ The first input line contains an integer n: the size of the array.
 Then, the second line contains n integers $$ x_1,x_2,\ldots,x_n $$ the contents of the array.
 Output
 Print the minimum number of moves.
-Constraints
 
+**Constraints**
 $$ 1 \le n \le 2 \cdot 10^5 $$
 $$ 1 \le x_i \le 10^9 $$
 

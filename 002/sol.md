@@ -6,8 +6,8 @@ The first input line contains an integer n.
 The second line contains n-1 numbers. Each number is distinct and between 1 and n (inclusive).
 Output
 Print the missing number.
-Constraints
 
+**Constraints**
 $$ 2 \le n \le 2 \cdot 10^5 $$
 
 Example
