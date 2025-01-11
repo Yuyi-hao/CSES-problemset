@@ -6,7 +6,7 @@ Your task is to count for  $ k=1,2,\ldots,n $ the number of ways two knights can
 Input: The only input line contains an integer n.
 Output: Print n integers: the results.
 
-Constraints
+**Constraints**
 $$ 1 \le n \le 10000 $$
 
 Example
